@@ -1,0 +1,18 @@
+# Local firmware configuration: may contain the Wi-Fi password for the car.
+firmware/config.h
+
+# PlatformIO build output.
+firmware/.pio/
+
+# Flutter / Dart output and IDE-local files.
+mobile_app/.dart_tool/
+mobile_app/build/
+mobile_app/.idea/
+mobile_app/android/.gradle/
+mobile_app/android/local.properties
+mobile_app/ios/Flutter/ephemeral/
+mobile_app/ios/Flutter/Generated.xcconfig
+mobile_app/ios/Flutter/flutter_export_environment.sh
+
+# OS files.
+.DS_Store
